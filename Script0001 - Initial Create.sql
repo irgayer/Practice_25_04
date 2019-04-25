@@ -1,10 +1,6 @@
 ﻿GO
 SET QUOTED_IDENTIFIER ON
 GO
-drop table [dbo].[Comments]
-go
-drop table [dbo].[News]
-go
 
 CREATE TABLE [dbo].[Comments](
 	[Id] [uniqueidentifier] NOT NULL,

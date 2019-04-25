@@ -124,7 +124,7 @@ namespace Practice_25_04
                         
                         using (var connection = new SqlConnection(connectionString))
                         {
-                            connection.Execute("insert into New values(@Id,@Title,@MainText,@DetailText,@Author,@PublishTime)", newNew);
+                            connection.Execute("insert into News values(@Id,@Title,@MainText,@DetailText,@Author,@PublishTime)", newNew);
                         }
                     }
                     else
@@ -185,12 +185,12 @@ namespace Practice_25_04
                         using (var connection = new SqlConnection(connectionString))
                         {
                             Comment newComment = new Comment();
-                            newComment.Id = id;
-                            newComment.NickName = commentAuthor;
+                            newComment.IdNew = id;
+                            newComment.Author = commentAuthor;
                             newComment.Text = commentText;
                             newComment.PublishTime = DateTime.Now;
 
-                            connection.Execute("insert into comment values(@Id,@NickName,@Text,@PublishTime,@IdNew)", newComment);
+                            connection.Execute("insert into comments values(@Id,@Author,@Text,@PublishTime,@IdNew)", newComment);
                         }
                     }
                     else

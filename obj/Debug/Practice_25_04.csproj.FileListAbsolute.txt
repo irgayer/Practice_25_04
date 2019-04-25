@@ -10,3 +10,15 @@ c:\users\иргалиеве.corp\source\repos\Practice_25_04\obj\Debug\Practice_
 c:\users\иргалиеве.corp\source\repos\Practice_25_04\obj\Debug\Practice_25_04.csproj.CopyComplete
 c:\users\иргалиеве.corp\source\repos\Practice_25_04\obj\Debug\Practice_25_04.exe
 c:\users\иргалиеве.corp\source\repos\Practice_25_04\obj\Debug\Practice_25_04.pdb
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\bin\Debug\Practice_25_04.exe.config
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\bin\Debug\Practice_25_04.exe
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\bin\Debug\Practice_25_04.pdb
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\bin\Debug\Dapper.dll
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\bin\Debug\dbup-core.dll
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\bin\Debug\dbup-sqlserver.dll
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\bin\Debug\Dapper.xml
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\obj\Debug\Practice_25_04.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\obj\Debug\Practice_25_04.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\obj\Debug\Practice_25_04.csproj.CopyComplete
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\obj\Debug\Practice_25_04.exe
+C:\Users\ИргалиевЕ\Source\Repos\Practice_25_04\obj\Debug\Practice_25_04.pdb

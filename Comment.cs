@@ -8,7 +8,7 @@ namespace Practice_25_04
 {
     public class Comment : Entity
     {
-        public string NickName { get; set; }
+        public string Author { get; set; }
         public string Text { get; set; }
         public DateTime PublishTime { get; set; }
         public Guid IdNew { get; set; }
@@ -16,7 +16,7 @@ namespace Practice_25_04
         public override string ToString()
         {
             return $"{PublishTime}\n" +
-                   $"{NickName}: " +
+                   $"{Author}: " +
                    $"{Text}";
         }
     }
